@@ -1,0 +1,24 @@
+kuid <KUID:1037639:100125>
+category-class YM
+category-region-0 TO
+category-era-0 2000
+kind map
+username siwtch tets
+asset-filename siwtch tets
+workingscale 0
+workingunits 1
+water <KUID:-1:110015>
+string-table {
+}
+region USA
+kuid-table {
+0 <KUID:-1:6270>
+1 <KUID:-1:110014>
+2 <KUID:35412:38093>
+3 <KUID:35412:38999>
+4 <KUID:-1:6131>
+5 <KUID:35412:24006>
+6 <KUID:35412:40032>
+7 <KUID:35412:40031>
+8 <KUID:35412:40029>
+}

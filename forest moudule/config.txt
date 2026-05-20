@@ -1,0 +1,33 @@
+category-class YM
+category-region-0 TO
+category-era-0 2000
+kuid <KUID:1037639:100157>
+kind map
+username forest moudule
+asset-filename forest moudule
+workingscale 0
+workingunits 0
+water <KUID:-1:8008>
+string-table {
+}
+region USA
+kuid-table {
+0 <KUID:-1:6270>
+1 <KUID:-1:609>
+2 <KUID:43955:21018>
+3 <KUID:-1:100608>
+4 <KUID:-1:110000>
+5 <KUID:-1:15>
+6 <KUID:-1:100634>
+7 <KUID:9:23002>
+8 <KUID:-1:110006>
+9 <KUID:-1:6131>
+10 <KUID:-1:28>
+11 <KUID:-1:100501>
+12 <KUID:-1:100574>
+13 <KUID:-1:101097>
+14 <KUID:-1:101094>
+15 <KUID:-1:101074>
+16 <KUID:-1:527>
+17 <KUID:-1:16>
+}

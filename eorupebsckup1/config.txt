@@ -1,0 +1,28 @@
+kuid <KUID:1037639:100291>
+kind map
+username eorupebsckup1
+asset-filename eorupebsckup1
+workingscale 0
+workingunits 0
+water <KUID:-1:110015>
+string-table {
+beinleger beinleger
+}
+region Germany
+category-class YM
+category-region-0 TO
+category-era-0 2000
+kuid-table {
+0 <KUID:-1:6270>
+1 <KUID:-1:110014>
+2 <KUID:-1:100966>
+3 <KUID:-1:15>
+4 <KUID:-1:101116>
+5 <KUID:-1:100673>
+6 <KUID:-1:101083>
+7 <KUID:-1:100553>
+8 <KUID:-1:101182>
+9 <KUID:9:55001>
+10 <KUID:-1:100633>
+11 <KUID:-1:100385>
+}

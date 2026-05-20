@@ -1,0 +1,33 @@
+kuid <KUID:1037639:100190>
+category-class YM
+category-region-0 TO
+category-era-0 2000
+kind map
+username narrowgaugeusa
+asset-filename narrowgaugeusa
+workingscale 0
+workingunits 0
+water <KUID:-1:110015>
+string-table {
+interchange INTERCHANGE
+}
+region USA
+kuid-table {
+0 <KUID:-1:6270>
+1 <KUID:-1:100449>
+2 <KUID:-1:110014>
+3 <KUID:35412:38107>
+4 <KUID:-1:100608>
+5 <KUID:43955:28000>
+6 <KUID:-1:100689>
+7 <KUID:-1:6131>
+8 <KUID:-1:100916>
+9 <KUID:-1:100918>
+10 <KUID:-1:100915>
+11 <KUID:-10:160>
+12 <KUID:-1:100932>
+13 <KUID:-10:159>
+14 <KUID:-10:158>
+15 <KUID:-10:157>
+16 <KUID:-10:156>
+}

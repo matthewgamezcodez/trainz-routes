@@ -1,0 +1,25 @@
+kuid <KUID:-2:-335079216>
+kind map
+username the crossing
+asset-filename the crossing
+workingscale 0
+workingunits 0
+water <KUID:-1:110015>
+string-table {
+starsky starsky
+ateam ateam
+}
+region USA
+category-class YM
+category-region-0 TO
+category-era-0 2000
+kuid-table {
+0 <KUID:-1:6270>
+1 <KUID:-1:110014>
+2 <KUID:-1:100608>
+3 <KUID:-1:100598>
+4 <KUID:-1:101265>
+5 <KUID:-1:100592>
+6 <KUID:-1:101217>
+7 <KUID:-1:28>
+}

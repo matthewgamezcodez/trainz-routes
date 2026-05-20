@@ -1,0 +1,26 @@
+kuid <KUID:1037639:100085>
+category-class YM
+category-region-0 TO
+category-era-0 2000
+kind map
+username american winter
+asset-filename american winter
+workingscale 0
+workingunits 0
+water <KUID:-1:110015>
+string-table {
+}
+region USA
+kuid-table {
+0 <KUID:-1:6270>
+1 <KUID:-1:100661>
+2 <KUID:-1:110014>
+3 <KUID:47439:38004>
+4 <KUID:-1:101340>
+5 <KUID:-1:100634>
+6 <KUID:-1:100722>
+7 <KUID:-1:100697>
+8 <KUID:-1:100718>
+9 <KUID:-1:6131>
+10 <KUID:-1:100696>
+}

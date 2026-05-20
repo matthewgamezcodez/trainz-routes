@@ -1,0 +1,19 @@
+kuid <KUID:1037639:100413>
+category-class YM
+category-region-0 TO
+category-era-0 2000
+kind map
+username awvr railway
+asset-filename awvr railway
+workingscale 0
+workingunits 0
+water <KUID:-1:110015>
+string-table {
+}
+region USA
+kuid-table {
+0 <KUID:-1:6270>
+1 <KUID:-1:110014>
+2 <KUID:-1:100608>
+3 <KUID:-1:100634>
+}

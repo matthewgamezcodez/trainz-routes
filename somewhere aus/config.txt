@@ -1,0 +1,60 @@
+kuid <KUID:-2:-335079222>
+category-class YM
+category-region-0 TO
+category-era-0 2000
+kind map
+username somewhere aus
+asset-filename somewhere aus
+workingscale 0
+workingunits 0
+water <KUID:-1:110015>
+string-table {
+_w_a_r_n_e_r W A R N E R
+warner_pub WARNER PUB
+}
+region Australia
+kuid-table {
+0 <KUID:-1:6270>
+1 <KUID:-1:100247>
+2 <KUID:-1:110014>
+3 <KUID:-1:100736>
+4 <KUID:-1:100396>
+5 <KUID:-1:100409>
+6 <KUID:-1:100299>
+7 <KUID:-12:323>
+8 <KUID:-1:100940>
+9 <KUID:-1:100926>
+10 <KUID:-1:100941>
+11 <KUID:-1:100937>
+12 <KUID:-1:100939>
+13 <KUID:-1:100944>
+14 <KUID:-1:100924>
+15 <KUID:-1:100925>
+16 <KUID:-1:6131>
+17 <KUID:-1:100263>
+18 <KUID:62941:26002>
+19 <KUID:-1:100262>
+20 <KUID:62941:26000>
+21 <KUID:-1:100274>
+22 <KUID:-1:100645>
+23 <KUID:-1:100644>
+24 <KUID:-1:100647>
+25 <KUID:-1:100259>
+26 <KUID:-1:100203>
+27 <KUID:-1:100202>
+28 <KUID:-1:100257>
+29 <KUID:-1:100323>
+30 <KUID:-1:100205>
+31 <KUID:-1:100213>
+32 <KUID:-1:100204>
+33 <KUID:-1:100258>
+34 <KUID:-1:100206>
+35 <KUID:-1:100260>
+36 <KUID:-1:100261>
+37 <KUID:-1:100386>
+38 <KUID:-1:100275>
+39 <KUID:-1:100560>
+40 <KUID:13013:26002>
+41 <KUID:-1:100572>
+42 <KUID:-1:100595>
+}

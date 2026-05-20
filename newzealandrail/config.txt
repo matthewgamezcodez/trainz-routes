@@ -1,0 +1,22 @@
+kuid <KUID:1037639:100191>
+kind map
+username newzealandrail
+asset-filename newzealandrail
+workingscale 0
+workingunits 0
+water <KUID:-1:110015>
+string-table {
+}
+region USA
+category-class YM
+category-region-0 TO
+category-era-0 2000
+kuid-table {
+0 <KUID:-1:6270>
+1 <KUID:-1:110014>
+2 <KUID:44640:38005>
+3 <KUID:44640:38007>
+4 <KUID:-1:100634>
+5 <KUID:44640:280006>
+6 <KUID:44640:28001>
+}

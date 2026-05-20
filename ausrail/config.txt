@@ -1,0 +1,26 @@
+kuid <KUID:1037639:100459>
+category-class YM
+category-region-0 TO
+category-era-0 2000
+kind map
+username ausrail
+asset-filename ausrail
+workingscale 0
+workingunits 1
+water <KUID:-1:110015>
+string-table {
+}
+region Australia
+kuid-table {
+0 <KUID:-1:6270>
+1 <KUID:-1:100226>
+2 <KUID:-1:100449>
+3 <KUID:-1:110014>
+4 <KUID:-1:100396>
+5 <KUID:-1:100301>
+6 <KUID:-1:100409>
+7 <KUID:-1:100384>
+8 <KUID:-1:100288>
+9 <KUID:-1:100633>
+10 <KUID:-1:101152>
+}

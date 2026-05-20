@@ -1,0 +1,36 @@
+kuid <KUID:1037639:100193>
+category-class YM
+category-region-0 TO
+category-era-0 2000
+kind map
+username heritagerailway
+asset-filename heritagerailway
+workingscale 0
+workingunits 0
+water <KUID:-1:110015>
+string-table {
+}
+region Britain
+kuid-table {
+0 <KUID:-1:6270>
+1 <KUID:-1:609>
+2 <KUID:-1:110014>
+3 <KUID:-1:100608>
+4 <KUID:-1:15>
+5 <KUID:-1:19>
+6 <KUID:-1:100966>
+7 <KUID:-1:100553>
+8 <KUID:68236:28001>
+9 <KUID:-1:6131>
+10 <KUID:-1:528>
+11 <KUID:-1:562>
+12 <KUID:-1:27>
+13 <KUID:-1:1016>
+14 <KUID:-1:16>
+15 <KUID:-1:564>
+16 <KUID:-1:1015>
+17 <KUID:-1:100735>
+18 <KUID:1942:28000>
+19 <KUID:1942:28009>
+20 <KUID:-1:100506>
+}

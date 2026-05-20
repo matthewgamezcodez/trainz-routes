@@ -1,0 +1,22 @@
+kuid <KUID:-2:-335079235>
+category-class YM
+category-region-0 TO
+category-era-0 2000
+kind map
+username united lines
+asset-filename united lines
+workingscale 0
+workingunits 0
+water <KUID:-1:8009>
+string-table {
+}
+region USA
+kuid-table {
+0 <KUID:-1:6270>
+1 <KUID:-1:100426>
+2 <KUID:-1:100789>
+3 <KUID:-1:100790>
+4 <KUID:9:21009>
+5 <KUID:-1:110014>
+6 <KUID:-1:100608>
+}

@@ -1,0 +1,21 @@
+kuid <KUID:1037639:100194>
+kind map
+username woodtrains
+asset-filename woodtrains
+workingscale 0
+workingunits 0
+water <KUID:-1:110015>
+string-table {
+}
+region Britain
+category-class YM
+category-region-0 TO
+category-era-0 2000
+kuid-table {
+0 <KUID:-1:6270>
+1 <KUID:-1:110014>
+2 <KUID:67598:38012>
+3 <KUID:-1:100553>
+4 <KUID:-1:6131>
+5 <KUID:67598:25001>
+}

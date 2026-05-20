@@ -1,0 +1,23 @@
+kuid <KUID:-2:-335079221>
+kind map
+username railyard
+asset-filename railyard
+workingscale 0
+workingunits 0
+water <KUID:-1:110015>
+string-table {
+}
+region USA
+category-class YM
+category-region-0 TO
+category-era-0 2000
+kuid-table {
+0 <KUID:-1:6270>
+1 <KUID:-1:110014>
+2 <KUID:-1:100608>
+3 <KUID:-1:101045>
+4 <KUID:-1:100633>
+5 <KUID:44797:28017>
+6 <KUID:-1:28>
+7 <KUID:-1:6131>
+}
